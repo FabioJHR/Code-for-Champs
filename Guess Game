@@ -1,5 +1,5 @@
 
-secret_word = "mierda"
+secret_word = "Hello"
 guess = ""
 guess_count = 0
 guess_limit = 3
